@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.cards {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards h1, a, p, img {
+  width: 360px;
+  color: black;
+  text-decoration: none;
+
+}
